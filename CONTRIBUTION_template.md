@@ -65,6 +65,4 @@ Let’s create something awesome 💙
 
 ## 🧪 Project-Specific Notes for {{PROJECT_NAME}}
 
-- This repo uses Python with Flask, so make sure you have Python 3.10+
-- Run `pip install -r requirements.txt` before starting
-- Deployment uses Replit – ask a lead for the link!
+**Add a project specific notes here
