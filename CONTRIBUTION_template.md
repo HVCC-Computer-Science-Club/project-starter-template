@@ -60,3 +60,11 @@ This project is part of the **Computer Science Club GitHub Organization**.
 We welcome all members — beginners and experienced alike — to contribute, learn, and build together.
 
 Let’s create something awesome 💙
+
+---
+
+## 🧪 Project-Specific Notes for {{PROJECT_NAME}}
+
+- This repo uses Python with Flask, so make sure you have Python 3.10+
+- Run `pip install -r requirements.txt` before starting
+- Deployment uses Replit – ask a lead for the link!
